@@ -4,6 +4,7 @@ import { styles } from "./styles"
 import { Ingredient } from "@/components/ingredient"
 import { useState } from "react"
 import { Selected } from "@/components/selected"
+import React from "react"
 
 export default function Index() {
   const [selected, setSelected] = useState<string[]>([])

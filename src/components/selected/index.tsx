@@ -3,6 +3,7 @@ import Animated, { SlideInDown, BounceOutDown } from "react-native-reanimated"
 import { MaterialIcons } from "@expo/vector-icons"
 import { styles } from "./styles"
 import { theme } from "@/theme"
+import React from "react"
 
 type Props = {
   quantity: number
