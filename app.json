@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "cook-app",
-    "slug": "cook-app",
+    "slug": "cookapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,13 +16,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jhessfrois.cookapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jhessfrois.cookapp"
     },
     "web": {
       "bundler": "metro",
@@ -35,6 +37,21 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cc59aa17-c798-4a69-bb14-141a6c3534a0"
+      }
+    },
+    "owner": "jhessfrois",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cc59aa17-c798-4a69-bb14-141a6c3534a0"
     }
   }
 }
