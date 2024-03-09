@@ -45,8 +45,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido um aplicativo de receitas com base nos ingredientes que o usuário seleciona.
 
 ## 📱 Deploy
-- [🔗 Clique aqui para acessar no IOS](exp://u.expo.dev/update/6a44f01b-33c8-48cc-94fb-097a7b60060b)
-- [🔗 Clique aqui para acessar no Android](exp://u.expo.dev/update/c2498595-454c-4332-b865-0414b4d4db4c)
+- [🔗 Clique aqui para acessar no IOS](https://qr.expo.dev/eas-update?updateId=6a44f01b-33c8-48cc-94fb-097a7b60060b&appScheme=exp&host=u.expo.dev)
+- [🔗 Clique aqui para acessar no Android](https://qr.expo.dev/eas-update?updateId=c2498595-454c-4332-b865-0414b4d4db4c&appScheme=exp&host=u.expo.dev)
 
 ## **🤍 Contato**
 
