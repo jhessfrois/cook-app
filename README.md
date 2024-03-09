@@ -36,8 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 - ![Expo Badge](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge)
-- ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
 - <img alt="Expo Router" src="https://i.imgur.com/rr77UKI.png" width="14.5%">
+- <img alt="Reanimated" src="https://i.imgur.com/8VwJJtm.png" width="14.5%">
+- ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
 
 ## 💻 Projeto
 
