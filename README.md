@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo React Native na Prática - Rocketseat" src="https://i.imgur.com/jvrpLNj.jpeg" width="300px" />
-</p>
+</p> 
 
 <p align="center">
     Aplicação desenvolvida no evento React Native na Prática da Rocketseat.
